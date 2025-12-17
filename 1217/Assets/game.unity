@@ -518,6 +518,7 @@ GameObject:
   - component: {fileID: 1705152279}
   - component: {fileID: 1705152282}
   - component: {fileID: 1705152283}
+  - component: {fileID: 1705152284}
   m_Layer: 0
   m_Name: images-Photoroom_0
   m_TagString: Untagged
@@ -707,6 +708,18 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1.11, y: 1.47}
   m_EdgeRadius: 0
+--- !u!114 &1705152284
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1705152278}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e6409b731495154e8254d2f31c31fb7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::NewMonoBehaviourScript
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
