@@ -1,0 +1,416 @@
+fileFormatVersion: 2
+guid: e2b91aabc2edccf418a1bbd057833f6a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5935009619900043730
+    second: pngtree-vector-painted-red-lever-png-image_2666471-Photoroom_0
+  - first:
+      213: 4013531192436217595
+    second: pngtree-vector-painted-red-lever-png-image_2666471-Photoroom_1
+  - first:
+      213: 8123714658897140585
+    second: pngtree-vector-painted-red-lever-png-image_2666471-Photoroom_2
+  - first:
+      213: -6214787278015308479
+    second: pngtree-vector-painted-red-lever-png-image_2666471-Photoroom_3
+  - first:
+      213: 372268758468357139
+    second: pngtree-vector-painted-red-lever-png-image_2666471-Photoroom_4
+  - first:
+      213: -8268326212709181488
+    second: pngtree-vector-painted-red-lever-png-image_2666471-Photoroom_5
+  - first:
+      213: -724626167928259551
+    second: pngtree-vector-painted-red-lever-png-image_2666471-Photoroom_6
+  - first:
+      213: -7933492602240595757
+    second: pngtree-vector-painted-red-lever-png-image_2666471-Photoroom_7
+  - first:
+      213: -254589067342322954
+    second: pngtree-vector-painted-red-lever-png-image_2666471-Photoroom_8
+  - first:
+      213: -1932066544975188195
+    second: pngtree-vector-painted-red-lever-png-image_2666471-Photoroom_9
+  - first:
+      213: 4463240427425255976
+    second: pngtree-vector-painted-red-lever-png-image_2666471-Photoroom_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngtree-vector-painted-red-lever-png-image_2666471-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1200
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ee45b123c92ada0800000000000000
+      internalID: -5935009619900043730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-vector-painted-red-lever-png-image_2666471-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 48
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf65c1cda5de2b730800000000000000
+      internalID: 4013531192436217595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-vector-painted-red-lever-png-image_2666471-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 48
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b9234e07b3db070800000000000000
+      internalID: 8123714658897140585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-vector-painted-red-lever-png-image_2666471-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 42
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14dd743e5e3a0c9a0800000000000000
+      internalID: -6214787278015308479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-vector-painted-red-lever-png-image_2666471-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 67
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c6b75a6709a2500800000000000000
+      internalID: 372268758468357139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-vector-painted-red-lever-png-image_2666471-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 48
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d71b64fd11014d80800000000000000
+      internalID: -8268326212709181488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-vector-painted-red-lever-png-image_2666471-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 48
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12cfea9e65c91f5f0800000000000000
+      internalID: -724626167928259551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-vector-painted-red-lever-png-image_2666471-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 48
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8824ff28296e190800000000000000
+      internalID: -7933492602240595757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-vector-painted-red-lever-png-image_2666471-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 48
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2ec559794877cf0800000000000000
+      internalID: -254589067342322954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-vector-painted-red-lever-png-image_2666471-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 42
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f6650c6bbef25e0800000000000000
+      internalID: -1932066544975188195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-vector-painted-red-lever-png-image_2666471-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 42
+        width: 143
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82258df758d90fd30800000000000000
+      internalID: 4463240427425255976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pngtree-vector-painted-red-lever-png-image_2666471-Photoroom_0: -5935009619900043730
+      pngtree-vector-painted-red-lever-png-image_2666471-Photoroom_1: 4013531192436217595
+      pngtree-vector-painted-red-lever-png-image_2666471-Photoroom_10: 4463240427425255976
+      pngtree-vector-painted-red-lever-png-image_2666471-Photoroom_2: 8123714658897140585
+      pngtree-vector-painted-red-lever-png-image_2666471-Photoroom_3: -6214787278015308479
+      pngtree-vector-painted-red-lever-png-image_2666471-Photoroom_4: 372268758468357139
+      pngtree-vector-painted-red-lever-png-image_2666471-Photoroom_5: -8268326212709181488
+      pngtree-vector-painted-red-lever-png-image_2666471-Photoroom_6: -724626167928259551
+      pngtree-vector-painted-red-lever-png-image_2666471-Photoroom_7: -7933492602240595757
+      pngtree-vector-painted-red-lever-png-image_2666471-Photoroom_8: -254589067342322954
+      pngtree-vector-painted-red-lever-png-image_2666471-Photoroom_9: -1932066544975188195
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
