@@ -1,10 +1,12 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using System.Collections;
 using System.Collections.Generic;
 
 public class NewMonoBehaviourScript : MonoBehaviour
 {
     Rigidbody2D rigid2D;
+    Animator animator;
     float jumpForce = 680.0f;
     float walkForce = 30.0f;
     float maxWalkSpeed = 2.0f;
@@ -13,11 +15,12 @@ public class NewMonoBehaviourScript : MonoBehaviour
     {
         Application.targetFrameRate = 60;
         this.rigid2D = GetComponent<Rigidbody2D>();
+        this.animator = GetComponent<Animator>();
     }
 
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Space))
+        if (Input.GetKeyDown(KeyCode.Space)&&this.rigid2D.linearVelocity.y == 0)
         {
             this.rigid2D.AddForce(transform.up * this.jumpForce);
         }
@@ -33,5 +36,15 @@ public class NewMonoBehaviourScript : MonoBehaviour
         {
             transform.localScale = new Vector3(key, 1, 1);
         }
+        this.animator.speed = speedx / 2.0f;
+        if (transform.position.y < -10)
+        {
+            SceneManager.LoadScene("GameScene");
+        }
+    }
+    void OnTriggerEnter2D(Collider2D other)
+    {
+        Debug.Log("���I");
+        SceneManager.LoadScene("ClearScene");
     }
 }
